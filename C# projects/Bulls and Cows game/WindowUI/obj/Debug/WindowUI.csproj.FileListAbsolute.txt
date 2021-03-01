@@ -1,0 +1,11 @@
+C:\Users\tal kattan\Desktop\projects\Bulls and Cows game\New folder\WindowUI\bin\Debug\WindowUI.dll.config
+C:\Users\tal kattan\Desktop\projects\Bulls and Cows game\New folder\WindowUI\bin\Debug\WindowUI.dll
+C:\Users\tal kattan\Desktop\projects\Bulls and Cows game\New folder\WindowUI\bin\Debug\WindowUI.pdb
+C:\Users\tal kattan\Desktop\projects\Bulls and Cows game\New folder\WindowUI\bin\Debug\GameLogic.dll
+C:\Users\tal kattan\Desktop\projects\Bulls and Cows game\New folder\WindowUI\bin\Debug\GameLogic.pdb
+C:\Users\tal kattan\Desktop\projects\Bulls and Cows game\New folder\WindowUI\bin\Debug\GameLogic.dll.config
+C:\Users\tal kattan\Desktop\projects\Bulls and Cows game\New folder\WindowUI\obj\Debug\WindowUI.csprojAssemblyReference.cache
+C:\Users\tal kattan\Desktop\projects\Bulls and Cows game\New folder\WindowUI\obj\Debug\WindowUI.csproj.CoreCompileInputs.cache
+C:\Users\tal kattan\Desktop\projects\Bulls and Cows game\New folder\WindowUI\obj\Debug\WindowUI.csproj.CopyComplete
+C:\Users\tal kattan\Desktop\projects\Bulls and Cows game\New folder\WindowUI\obj\Debug\WindowUI.dll
+C:\Users\tal kattan\Desktop\projects\Bulls and Cows game\New folder\WindowUI\obj\Debug\WindowUI.pdb

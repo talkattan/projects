@@ -1,0 +1,2 @@
+The program based on a machine learning algorithm. Using statistical
+techniques known as Markov Processes and Monte Carlo methods, the program will first “learn” the style of any text that you feed it. The program generate nonsense texts written in the same style, and in any desirable length.

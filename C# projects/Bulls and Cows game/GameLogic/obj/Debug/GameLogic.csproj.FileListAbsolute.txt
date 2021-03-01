@@ -1,0 +1,7 @@
+C:\Users\tal kattan\Desktop\projects\Bulls and Cows game\New folder\GameLogic\bin\Debug\GameLogic.dll.config
+C:\Users\tal kattan\Desktop\projects\Bulls and Cows game\New folder\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\tal kattan\Desktop\projects\Bulls and Cows game\New folder\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\tal kattan\Desktop\projects\Bulls and Cows game\New folder\GameLogic\obj\Debug\GameLogic.csprojAssemblyReference.cache
+C:\Users\tal kattan\Desktop\projects\Bulls and Cows game\New folder\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\tal kattan\Desktop\projects\Bulls and Cows game\New folder\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\tal kattan\Desktop\projects\Bulls and Cows game\New folder\GameLogic\obj\Debug\GameLogic.pdb
